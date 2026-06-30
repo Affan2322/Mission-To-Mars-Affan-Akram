@@ -5,7 +5,7 @@
 ### Story 1 — Built in light function on Arduino Uno
  I learnt how to program the built in light on the Arduino Uno board. This helps show that the Arduino board is working properly
 
-![Story 1](story_1.jpeg)
+![Story 1](Story_1.jpeg)
 
 
 ---
