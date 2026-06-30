@@ -14,8 +14,8 @@ I learnt how to program external LEDS on a breadboard. This helped me get the ha
 
 ---
 
-### Story 3 — Title of Experience
-
+### Story 3 — Simulating motors
+Using LEDS to simulate power, forward motors, and reverse motors.
 
 ---
 
