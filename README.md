@@ -10,7 +10,7 @@
 ---
 
 ### Story 2 — Title of Experience
-
+I learnt how to program external leds on a breadboard. This helped me get the hang of the Arduino code and gave me the pleasure to see my code work with the hardware.
 
 ---
 
