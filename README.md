@@ -52,7 +52,9 @@ Using LEDS to simulate power, forward motors, and reverse motors. This helped me
 
 ### ⚙️ Story 8 — Title of Experience
 
-![Story 8](story_8.jpg)
+![Story 8.1](story_91.jpg)
+![Story 8.2](story_92.jpg)
+![Story 8.3](story_93.jpg)
 ---
 
 
