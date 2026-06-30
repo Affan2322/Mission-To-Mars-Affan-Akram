@@ -8,7 +8,8 @@
 ![Story 1](Story_1.jpeg)
 
 
-<hr style="border: 0; height: 3px; background: linear-gradient(to right, #00B4FF, #0066FF);">
+<hr style="border: 0; height: 4px; background: #007BFF;">
+
 
 
 ### ⚙️ Story 2 — Programming external LEDS on a breadboard
