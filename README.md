@@ -13,6 +13,7 @@
 ### Story 2 — Programming external LEDS on a breadboard
 I learnt how to program external LEDS on a breadboard. This helped me get the hang of the Arduino code and gave me the pleasure to see my code work with the hardware.
 
+![Story 2](Story_2.jpeg)
 ---
 
 ### Story 3 — Simulating motors
