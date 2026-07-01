@@ -66,5 +66,6 @@ Using LEDS to simulate power, forward motors, and reverse motors. This helped me
 
 ### ⚙️ Story 10 — Title of Experience
 
-![Story 10](Mission To Mars Poster_1.png)
+![Mission To Mars](images/Mission To Mars Poster_1.png)
+
 
