@@ -26,7 +26,8 @@ Using LEDS to simulate power, forward motors, and reverse motors. This helped me
 ---
 
 
-### ⚙️ Story 4 — Title of Experience
+### ⚙️ Story 4 — Using subroutines
+I learnt how to use subroutines to make my code easier to read, debug, and understand.
 
 ![Story 4](Story_4.jpeg)
 ---
