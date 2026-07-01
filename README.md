@@ -63,15 +63,16 @@ I learnt how to code a rover to avoid obstacles and follow a premade sequence wh
 ---
 
 
-### ⚙️ Story 9 — Title of Experience
+### ⚙️ Story 9 — Avoiding falls
+Using a function, i made code that checks the surrounding elevation and if the drop in elevation is more than 12 cm the rover avoids it by following a premade sequence
 
 ![Story 9](story_9.jpg)
 ---
 
 
-### ⚙️ Story 10 — Title of Experience
+### ⚙️ Story 10 — poster
 
-![Mission To Mars](Mission To Mars Poster_1.png)
+![Mission To Mars](Poster.jpg)
 
 
 
